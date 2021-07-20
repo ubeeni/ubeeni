@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true)
 <!--
 **ubeeni/ubeeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
