@@ -1,3 +1,24 @@
+### Hi there 〰 my name is Yubin 👻
+> 🌱 I’m currently learning AI, Data Science ..
+> 
+> 📬 How to reach me: yubin412@naver.com
+
+#### project
+> [2020-2 상명대학교 상생플러스](https://github.com/ubeeni/DATA_IS_FUTURE) : 스타트업 가치를 분석해 투자 가능성을 알려주는 서비스
+>
+> [2021-1 상명대학교 상생플러스](https://github.com/ubeeni/DBDBdeep) : 학교 주변 음식점 쿠폰 앱
+>
+> [2021-1 심층학습 프로젝트](https://github.com/ubeeni/sk_labs) : Facial semantic segmentation 기술을 이용한 맞춤 키오스크 서비스
+>
+> [2021-2 자연어처리 프로젝트](https://github.com/ubeeni/NLP_teamproject) : NLP 기술을 이용한 실종자 찾기 서비스
+>
+> [2021-2 상명대학교 상생플러스](https://github.com/ubeeni/we.borrow) : 물품 대여 서비스를 기반으로 한 웹페이지 
+
+#### Top Langs
+>![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
+
+<!--
+>![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true&theme=dracula)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fubeeni%2Fhit-counter&count_bg=%23E6AAF5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
@@ -13,15 +34,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </div>
-
-![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true&theme=dracula)
-
-<!--
-**ubeeni/ubeeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on sw..
 - 🌱 I’m currently learning ...
