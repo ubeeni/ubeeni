@@ -1,5 +1,5 @@
 ### Hi there 〰 my name is Yubin 👻
-> 🌱 I’m currently learning AI, Data Science ..
+> 🌱 I’m currently learning AI, Data Science, iOS ...
 > 
 > 📬 How to reach me: yubin412@naver.com
 
