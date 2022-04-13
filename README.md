@@ -16,9 +16,11 @@
 >
 > [2022-1 UMC 동아리](https://github.com/ubeeni/iOS) : iOS 앱개발 프로젝트를 위한 공부
 
-
 #### Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
+
+#### Stats
+>![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true&theme=dracula)
 
 <!--
 >![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true&theme=dracula)
