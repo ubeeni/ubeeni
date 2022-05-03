@@ -5,7 +5,7 @@
 > 
 > 📬 How to reach me: yubin412@naver.com
 
-#### project
+#### 📚 Project
 > [2020-2 상명대학교 상생플러스](https://github.com/ubeeni/DATA_IS_FUTURE) : 스타트업 가치를 분석해 투자 가능성을 알려주는 서비스
 >
 > [2021-1 상명대학교 상생플러스](https://github.com/ubeeni/DBDBdeep) : 학교 주변 음식점 쿠폰 앱
@@ -18,10 +18,10 @@
 >
 > [2022-1 UMC 동아리](https://github.com/ubeeni/iOS) : iOS 앱개발 프로젝트를 위한 공부
 
-#### Top Langs
+#### 👑 Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
 
-#### Stats
+#### 💫 Stats
 >![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true&theme=dracula)
 
 <!--
@@ -39,13 +39,3 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </div>
-
-### 🔭 I’m currently working on sw..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
