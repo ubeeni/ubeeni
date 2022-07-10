@@ -1,4 +1,4 @@
-### YUBIN KIM(김유빈)
+### YUBIN KIM (김유빈)
 
 #### 👩🏻‍💻 Profile
 > 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2019.03 ~ )
