@@ -1,4 +1,4 @@
-### YUBIN KIM (김유빈)
+### YUBIN KIM(김유빈)
 
 #### 👩🏻‍💻 Profile
 > 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2019.03 ~ )
@@ -29,4 +29,4 @@
 #### 💬 Blog
 > _latest post_
 >
-> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubeeni&color=dark)](https://github.com/ubeeni/velog-readme-stats) 
+> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubeeni&color=dark)](https://velog.io/@ubeeni) 
