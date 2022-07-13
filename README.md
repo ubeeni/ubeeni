@@ -6,6 +6,8 @@
 > 🌱 I’m currently learning iOS, AI, Data Science ...
 > 
 > 📬 How to reach me: yubin412@naver.com
+>
+> 🗒 Study-Log: https://velog.io/@ubeeni
 
 #### 📚 Project
 > [2020-2 상명대학교 상생플러스](https://github.com/ubeeni/DATA_IS_FUTURE) : 스타트업 가치를 분석해 투자 가능성을 알려주는 서비스
