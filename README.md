@@ -21,6 +21,8 @@
 > [2021-2 상명대학교 상생플러스](https://github.com/ubeeni/we.borrow) : 물품 대여 서비스를 기반으로 한 웹페이지
 >
 > [2022-1 UMC 동아리](https://github.com/ubeeni/UMC-iOS) : iOS 앱개발 프로젝트를 위한 공부
+>
+> [2022-2 UMC 동아리](https://github.com/ubeeni/iOS_A) : iOS Mission
 
 #### 👑 Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
