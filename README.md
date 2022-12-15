@@ -3,13 +3,12 @@
 ### ❤️‍🔥 Profile
 > 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2019.03 ~ )
 > 
-> 🌱 I’m currently learning iOS, AI, Data Science ...
-> 
-> 📬 How to reach me: yubin412@naver.com
+> 🗒 Study-Log: <a href="https://velog.io/@ubeeni"><img src="http://img.shields.io/badge/velog-20C997?style=round-square&logo=Velog&logoColor=white&link=https://velog.io/@ubeeni"/></a> 
 >
-> 🗒 Study-Log: https://velog.io/@ubeeni
+> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"> 
+> <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white">
 
-### 👩🏻‍💻 Project
+### 👩🏻‍💻 Project & Study
 > [2020-2 상명대학교 상생플러스](https://github.com/ubeeni/DATA_IS_FUTURE) : 스타트업 가치를 분석해 투자 가능성을 알려주는 서비스
 >
 > [2021-1 상명대학교 상생플러스](https://github.com/ubeeni/DBDBdeep) : 학교 주변 음식점 쿠폰 앱
@@ -20,15 +19,9 @@
 >
 > [2021-2 상명대학교 상생플러스](https://github.com/ubeeni/we.borrow) : 물품 대여 서비스를 기반으로 한 웹페이지
 >
-
-### 📚 Study
-> [2022-1 UMC 동아리](https://github.com/ubeeni/UMC-iOS) : iOS 앱개발 프로젝트를 위한 공부
+> [2022-1 UMC 동아리](https://github.com/ubeeni/UMC-iOS) : 인스타그램 클론 코딩 
 >
-> [2022-2 UMC 동아리](https://github.com/ubeeni/iOS_A) : iOS Mission
->
-> [2022.06 swift 개인 공부](https://github.com/ubeeni/Doit-Swift) : Do it! 스위프트로 아이폰 앱 만들기
-> 
-> [2022.12 iOS 개인 공부](https://github.com/ubeeni/iOS-Study) : 간단한 iOS 앱 UI 구현
+> [2022-2 UMC 동아리](https://github.com/ubeeni/iOS_A) : iOS 스터디
 
 ### 👑 Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
