@@ -24,10 +24,10 @@
 > [2022-2 UMC 동아리](https://github.com/ubeeni/iOS_A) : iOS 스터디
 
 ### 👑 Top Langs
->![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ubeeni&layout=compact&theme=dracula)
+>![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeeni&layout=compact&theme=dracula)
 
 ### 💫 Stats
->![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&show_icons=true&theme=dracula)
+>![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&layout=compact&theme=dracula)
 
 ### 💬 Blog
 > _latest post_
