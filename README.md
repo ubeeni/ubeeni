@@ -22,6 +22,8 @@
 > [2022-1 UMC 동아리](https://github.com/ubeeni/UMC-iOS) : 인스타그램 클론 코딩 
 >
 > [2022-2 UMC 동아리](https://github.com/ubeeni/iOS_A) : iOS 스터디
+>
+> [2022-2 iOS 프로젝트](https://github.com/ubeeni/Waither-FE) : 나만의 기상비서, Waither
 
 ### 👑 Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeeni&layout=compact&theme=dracula)
