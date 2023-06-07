@@ -24,6 +24,8 @@
 > [2022-2 UMC 동아리](https://github.com/ubeeni/iOS_A) : iOS 스터디
 >
 > [2022-2 iOS 프로젝트](https://github.com/ubeeni/Waither-FE) : 나만의 기상비서, Waither
+> 
+> [2023-1 휴먼지능정보종합설계 - 졸업 프로젝트](https://github.com/SMUthie/SMUthie-FE) : 상명대에서 뭐 먹지?, 슴우디(SMUthie)
 
 ### 👑 Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeeni&layout=compact&theme=dracula)
