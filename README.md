@@ -30,8 +30,8 @@
 ### 👑 Top Langs
 >![ubeeni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeeni&layout=compact&theme=dracula)
 
-### 💫 Stats
->![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&layout=compact&theme=dracula)
+<!-- ### 💫 Stats 
+<!-- >![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&layout=compact&theme=dracula) -->
 
 ### 💬 Blog
 > _latest post_
