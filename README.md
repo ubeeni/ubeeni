@@ -1,7 +1,7 @@
-## YUBIN KIM(김유빈)
+## 안녕하세요, 도전하는 개발자 김유빈입니다.
 
 ### ❤️‍🔥 Profile
-> 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2019.03 ~ )
+> 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2019.03 -)
 > 
 > 🗒 Study-Log: <a href="https://velog.io/@ubeeni"><img src="http://img.shields.io/badge/velog-20C997?style=round-square&logo=Velog&logoColor=white&link=https://velog.io/@ubeeni"/></a> 
 >
@@ -34,6 +34,6 @@
 <!-- >![Github Stats](https://github-readme-stats.vercel.app/api?username=ubeeni&layout=compact&theme=dracula) -->
 
 ### 💬 Blog
-> _latest post_
+> latest post
 >
 > [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubeeni&color=dark)](https://velog.io/@ubeeni) 
