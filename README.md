@@ -1,13 +1,16 @@
 ## 안녕하세요, 도전하는 개발자 김유빈입니다. 
-
+#### Apple Developer Academy @POSTECH 3기
+- iOS Developer
+- 2024.03 - 2024.12
+  
 #### UMC 2nd, 3rd, 4th, 5th
 - iOS Developer
 - 회장, 중앙운영사무국 iOS 파트장
-- 2022.03 ~ 2024.02
+- 2022.03 - 2024.02
 
 #### Sangmyung Univ. (Seoul)
 - Department of Intelligent Engineering Informatics for Human
-- 2019.03 ~ 2024.02
+- 2019.03 - 2024.02
   
 </br>
 <a href="https://velog.io/@ubeeni"><img src="http://img.shields.io/badge/velog-20C997?style=round-square&logo=Velog&logoColor=white&link=https://velog.io/@ubeeni"/></a> 
@@ -22,13 +25,10 @@
 </br>
 
 <!-- 
-#### Apple Developer Academy @POSTECH 3기
-- iOS Developer
-- 2024.03 - 2024.12
 
 #### GDSC Sangmyung DevRel
 - Operation Team
-- 2023.10 ~
+- 2023.10 -
 
 <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white">
