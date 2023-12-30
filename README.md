@@ -2,7 +2,15 @@
 #### Apple Developer Academy @POSTECH 3기
 - iOS Developer
 - 2024.03 - 2024.12
-  
+
+#### DND 10기
+- iOS Developer
+- 2023.12.30 - 2024.02.24(8주)
+
+#### GDSC Sangmyung DevRel
+- Operation Team
+- 2023.10 - ing
+
 #### UMC 2nd, 3rd, 4th, 5th
 - iOS Developer
 - 회장, 중앙운영사무국 iOS 파트장
@@ -25,10 +33,6 @@
 </br>
 
 <!-- 
-
-#### GDSC Sangmyung DevRel
-- Operation Team
-- 2023.10 -
 
 <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white">
