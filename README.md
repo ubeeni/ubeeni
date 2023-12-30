@@ -5,15 +5,15 @@
 
 #### DND 10기
 - iOS Developer
-- 2023.12.30 - 2024.02.24(8주)
+- 2023.12 - 2024.02 (8주)
 
 #### GDSC Sangmyung DevRel
 - Operation Team
 - 2023.10 - ing
 
-#### UMC 2nd, 3rd, 4th, 5th
+#### UMC 2기 - 5기
 - iOS Developer
-- 회장, 중앙운영사무국 iOS 파트장
+- 상명대학교 회장, 중앙운영사무국 iOS 파트장
 - 2022.03 - 2024.02
 
 #### Sangmyung Univ. (Seoul)
