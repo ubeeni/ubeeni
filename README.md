@@ -7,7 +7,7 @@
 - iOS Developer
 - 2023.12 - 2024.02 (8주)
 
-#### GDSC Sangmyung DevRel
+#### GDSC Sangmyung 23-24 DevRel
 - Operation Team
 - 2023.10 - ing
 
