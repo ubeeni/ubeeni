@@ -1,5 +1,6 @@
 ## 안녕하세요, 도전하는 개발자 김유빈입니다. 
 #### Apple Developer Academy @POSTECH 3기
+- 테크(Tech)
 - iOS Developer
 - 2024.03 - 2024.12
 
