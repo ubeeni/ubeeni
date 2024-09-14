@@ -10,7 +10,7 @@
 
 #### GDSC Sangmyung 23-24 DevRel
 - Operation Team
-- 2023.10 - ing
+- 2023.10 - 2024.08
 
 #### UMC 2기 - 5기
 - iOS Developer
