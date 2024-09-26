@@ -22,7 +22,6 @@
 - 2019.03 - 2024.02
   
 </br>
-<a href="https://velog.io/@ubeeni"><img src="http://img.shields.io/badge/velog-20C997?style=round-square&logo=Velog&logoColor=white&link=https://velog.io/@ubeeni"/></a> 
 
 <img src="https://img.shields.io/badge/iOS-FFFFFF??style=round-square&logo=Apple&logoColor=black"> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white">
 
@@ -34,6 +33,8 @@
 </br>
 
 <!-- 
+
+<a href="https://velog.io/@ubeeni"><img src="http://img.shields.io/badge/velog-20C997?style=round-square&logo=Velog&logoColor=white&link=https://velog.io/@ubeeni"/></a> 
 
 <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white">
